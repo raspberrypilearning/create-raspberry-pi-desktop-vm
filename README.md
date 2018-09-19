@@ -1,11 +1,11 @@
-# create-raspberry-pi-desktop-vm
+# install-raspberry-pi-desktop
 
-![create-raspberry-pi-desktop-vm](banner.png)
+![install-raspberry-pi-desktop](/en/images/banner.PNG)
 
-Find the project online at [projects.raspberrypi.org/en/projects/create-raspberry-pi-desktop-vm](https://projects.raspberrypi.org/en/projects/create-raspberry-pi-desktop-vm)
+Find the project online at [projects.raspberrypi.org/en/projects/install-raspberry-pi-desktop](https://projects.raspberrypi.org/en/projects/install-raspberry-pi-desktop)
 
 ## Resources
-For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/create-raspberry-pi-desktop-vm/tree/master/en/resources)
+For solutions and project materials, see [en/resources](https://github.com/raspberrypilearning/install-raspberry-pi-desktop/tree/master/en/resources)
 
 ## Contributing
 See [CONTRIBUTING.md](CONTRIBUTING.md)

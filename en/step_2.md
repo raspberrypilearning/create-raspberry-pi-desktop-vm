@@ -2,12 +2,10 @@
 
 ### Hardware
 
-+ List hardware here, or delete section.
++ A computer capable of running [Oracle VM VirtualBox](https://www.virtualbox.org/) 
 
 ### Software
 
-+ List software here, or delete section.
++ [Oracle VM VirtualBox](https://www.virtualbox.org/)
++ [Raspberry Pi Desktop installation](https://www.raspberrypi.org/downloads/raspberry-pi-desktop/)
 
-### Additional Resources
-
-+ List additional resources, or delete section.
